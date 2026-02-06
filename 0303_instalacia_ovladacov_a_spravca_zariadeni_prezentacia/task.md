@@ -32,9 +32,10 @@ Digitálne podpísaný: Microsoft Windows Hardware Compatibility Publisher <br>
 ID Hardvéru: PCI\VEN_1002&DEV_9904&SUBSYS_99041849&REV_00 <br>
 | Údaj              | Grafická karta                                | Zvuková karta                           |
 |-------------------|-----------------------------------------------|-----------------------------------------|
-| **Názov**         | (nebolo zadané)                               | High Definition Audio Device            |
-| **Verzia ovládača** | (nebolo zadané)                               | (nebolo zadané)                         |
-| **ID hardvéru**   | PCI bus 0, device 1, function 0               | (nebolo zadané)                         |
+| **Názov**         | AMD radeon HD 7560D                               | High Definition Audio Device            |
+| **Verzia ovládača** | (nebolo zadané)                               | 10.0.19041.1                        |
+| **ID hardvéru**   | PCI bus 0, device 1, function 0               | MMDEVAPI\AudioEndpoints
+                         |
 <br>
 | Údaj                     | Hodnota                         |
 |--------------------------|---------------------------------|
